@@ -1,0 +1,56 @@
+div {
+
+	width: 100%;
+	margin: 0 auto;
+	text-align: center;
+	overflow: hidden;
+	
+}
+
+header {
+
+	height: 40px;
+	text-align: center;
+
+}
+
+#display {
+
+	width: 97%;
+	height: 35px;
+	text-align: right;
+}
+
+content {
+	
+	text-align: center;
+	margin: 0 auto;
+	overflow: hidden;
+
+}
+
+table {
+
+	padding: 3px;
+	margin:  0 auto;
+	border: 1px solid black;
+	width: 25%;
+	background-color: darkseagreen;
+
+}
+th {
+
+	padding-bottom: 3px;
+}
+
+button {
+
+	width: 80px;
+	height: 50px;
+	background-color: lightgrey;
+}
+
+#clear {
+	width:  240px;
+	height: 50px;
+}
